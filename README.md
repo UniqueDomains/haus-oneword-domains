@@ -31,7 +31,7 @@ If you want to search & filters the complete database of [.HAUS one word domains
 | abatic.haus     | available | 54       | 2%     | 6      |           |         |         |
 | abaxial.haus    | available | 54       | 2%     | 7      |           |         |         |
 | abbatial.haus   | available | 50       | 1%     | 8      |           |         |         |
-| abc.haus        | available | 102      | 41%    | 3      |           |         |         |
+| abc.haus        | premium   | 102      | 41%    | 3      |           |         |         |
 | abdicable.haus  | available | 50       | 1%     | 9      |           |         |         |
 | abdominal.haus  | available | 82       | 5%     | 9      |           |         |         |
 | abdominous.haus | available | 56       | 1%     | 10     |           |         |         |
