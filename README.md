@@ -1,10 +1,10 @@
-# Available .HAUS One-Word Domains (11,280)
+# Available .HAUS One-Word Domains (11,833)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-11%2C280%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-11%2C833%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 Daily-updated public extract of available and resale .haus one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **11,280 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **11,833 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 11,280 domains
+**Public extract:** 1,000 rows · **Live catalog:** 11,833 domains
 
-**Last updated:** 2026-04-26  
+**Last updated:** 2026-05-01  
 **Canonical page:** `https://unique.domains/domains/tld/haus`  
 **Best for:** founders, investors, studios
 
@@ -66,7 +66,7 @@ print(df.head())
 | ------------------ | --------- | --------- | ------------- | -------------- | ------ | ------ | ----------- |
 | shortcuts.haus     | available | $19.99    | —             | 48             | 41     | 10     | name.com    |
 | cars.haus          | resell    | —         | —             | 66             | 47     | 4      | Porkbun LLC |
-| studios.haus       | premium   | $1,000    | —             | 54             | 21     | 7      | name.com    |
+| slots.haus         | premium   | $242      | $242          | 49             | 31     | 5      | namesilo    |
 | neuroscience.haus  | available | $19.99    | —             | 80             | 37     | 12     | name.com    |
 | homes.haus         | resell    | —         | —             | 86             | 34     | 5      | Porkbun LLC |
 | hightech.haus      | premium   | $250      | —             | 83             | 16     | 9      | name.com    |
@@ -74,16 +74,16 @@ print(df.head())
 | VirginiaBeach.haus | premium   | $1,120    | $1,120        | 58             | 9      | 14     | namecheap   |
 | teams.haus         | available | $19.99    | —             | 62             | 32     | 5      | name.com    |
 | trends.haus        | available | $19.99    | —             | 60             | 32     | 6      | name.com    |
-| spaces.haus        | available | $19.99    | —             | 54             | 30     | 6      | name.com    |
-| commonground.haus  | available | $19.99    | —             | 74             | 28     | 13     | name.com    |
+| cams.haus          | available | $19.99    | —             | 52             | 29     | 4      | name.com    |
 | KFC.haus           | available | $37.98    | —             | 74             | 27     | 3      | namecheap   |
 | Elias.haus         | available | $37.98    | —             | 72             | 27     | 5      | namecheap   |
-| bees.haus          | available | $19.99    | —             | 54             | 27     | 4      | name.com    |
 | drops.haus         | available | $19.99    | —             | 52             | 25     | 5      | name.com    |
 | Trex.haus          | available | $37.98    | —             | 80             | 24     | 5      | namecheap   |
 | whats.haus         | available | $19.99    | —             | 58             | 24     | 5      | name.com    |
 | loans.haus         | available | $19.99    | —             | 58             | 24     | 5      | name.com    |
 | reports.haus       | available | $19.99    | —             | 58             | 24     | 7      | name.com    |
+| rekt.haus          | available | $19.99    | —             | 40             | 24     | 4      | name.com    |
+| products.haus      | available | $19.99    | —             | 60             | 23     | 8      | name.com    |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                                   |
 | ----------------------- | ------------------------------------------------ |
-| 1,000-row public sample | 11,280 live domains                              |
+| 1,000-row public sample | 11,833 live domains                              |
 | Static CSV / JSON       | live search and daily refresh                    |
 | Basic exported fields   | deeper price, demand, risk, and workflow context |
 | No persistence          | Radar, saved search, and alerts                  |
@@ -143,7 +143,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .HAUS One-Word Domains*. Version 2026-04-26. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .HAUS One-Word Domains*. Version 2026-05-01. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
