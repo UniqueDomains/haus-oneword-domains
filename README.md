@@ -73,6 +73,7 @@ print(df.head())
 | payments.haus      | available | $19.99    | —             | 58             | 33     | 8      | name.com    |
 | VirginiaBeach.haus | premium   | $1,120    | $1,120        | 58             | 9      | 14     | namecheap   |
 | teams.haus         | available | $19.99    | —             | 62             | 32     | 5      | name.com    |
+| nana.haus          | premium   | —         | —             | 76             | 28     | 4      | —           |
 | trends.haus        | available | $19.99    | —             | 60             | 32     | 6      | name.com    |
 | cams.haus          | available | $19.99    | —             | 52             | 29     | 4      | name.com    |
 | KFC.haus           | available | $37.98    | —             | 74             | 27     | 3      | namecheap   |
@@ -83,7 +84,6 @@ print(df.head())
 | loans.haus         | available | $19.99    | —             | 58             | 24     | 5      | name.com    |
 | reports.haus       | available | $19.99    | —             | 58             | 24     | 7      | name.com    |
 | rekt.haus          | available | $19.99    | —             | 40             | 24     | 4      | name.com    |
-| products.haus      | available | $19.99    | —             | 60             | 23     | 8      | name.com    |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 

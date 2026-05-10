@@ -974,6 +974,7 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 4f7409bb-6b6d-42c3-af0d-34500bc5fd9d,daydreams.haus,available,19.99,,62,10,9,name.com,,
 4f9b6fcf-f9d0-4251-860c-9730d93fef65,happens.haus,available,19.99,,52,8,7,name.com,,
 4fad92c3-bdc2-4813-bde7-c062acaf2a1d,resorted.haus,available,19.99,,50,1,8,name.com,,
+4fb22107-f889-4c67-9856-d0f2f5653bff,nana.haus,premium,,,76,28,4,,,
 4fd4724b-dd29-46d8-a50c-38af87f9119f,communityservice.haus,available,19.99,,72,5,17,name.com,,
 4fd6625d-3511-4a1b-8fdd-0a126af0b87c,flaxcotton.haus,available,19.99,,56,0,11,name.com,,
 501024e5-ca3f-4c7e-893f-41c7697517c4,fillaway.haus,available,19.99,,70,1,9,name.com,,
@@ -998,4 +999,3 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 51f4f904-2e8b-4c16-8349-37b629db159e,goround.haus,available,19.99,,68,3,8,name.com,,
 52045532-9bfe-4931-a549-6281cab29129,limits.haus,available,19.99,,55,11,6,name.com,,
 52065223-43a9-4d38-9025-170ffe9bca94,equals.haus,available,19.99,,62,10,6,name.com,,
-52067fa4-bd73-4f03-a0b6-baf2966275c2,retrieved.haus,available,19.99,,57,3,9,name.com,,
