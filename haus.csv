@@ -800,6 +800,7 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 428267c9-983d-4196-a795-e97cbd555e9e,costofgoodssold.haus,available,19.99,,62,1,18,name.com,,
 42b9701f-136c-4003-8041-df8175f53548,RosettaStone.haus,available,37.98,,58,12,13,namecheap,,
 42c11b4d-d500-431f-b3c9-d7df88017f8b,drops.haus,available,19.99,,52,25,5,name.com,,
+42d85b35-e2e9-4420-a7b9-689586e19c16,Your.haus,resell,,,68,59,4,Dynadot Inc,17/10/2025 15:20,17/10/2026 15:20
 42da4841-adb2-4c1b-a184-371658adee81,fasttracks.haus,available,19.99,,56,4,11,name.com,,
 43015d35-5a54-451d-b13c-605a4493117c,dollars.haus,available,19.99,,64,12,7,name.com,,
 430c342a-7ee3-4ad3-a3a2-0b639d97231f,VHS.haus,available,37.98,,71,20,3,namecheap,,
@@ -998,4 +999,3 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 51d66ace-92f2-4f59-ae5c-e92dc8857bf5,goastray.haus,available,19.99,,66,1,9,name.com,,
 51f4f904-2e8b-4c16-8349-37b629db159e,goround.haus,available,19.99,,68,3,8,name.com,,
 52045532-9bfe-4931-a549-6281cab29129,limits.haus,available,19.99,,55,11,6,name.com,,
-52065223-43a9-4d38-9025-170ffe9bca94,equals.haus,available,19.99,,62,10,6,name.com,,

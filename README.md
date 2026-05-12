@@ -65,12 +65,13 @@ print(df.head())
 | domain             | status    | ask_price | renewal_price | attractiveness | demand | length | registrar   |
 | ------------------ | --------- | --------- | ------------- | -------------- | ------ | ------ | ----------- |
 | shortcuts.haus     | available | $19.99    | —             | 48             | 41     | 10     | name.com    |
-| cars.haus          | resell    | —         | —             | 66             | 47     | 4      | Porkbun LLC |
+| Your.haus          | resell    | —         | —             | 68             | 59     | 4      | Dynadot Inc |
 | slots.haus         | premium   | $242      | $242          | 49             | 31     | 5      | namesilo    |
 | neuroscience.haus  | available | $19.99    | —             | 80             | 37     | 12     | name.com    |
-| homes.haus         | resell    | —         | —             | 86             | 34     | 5      | Porkbun LLC |
+| cars.haus          | resell    | —         | —             | 66             | 47     | 4      | Porkbun LLC |
 | hightech.haus      | premium   | $250      | —             | 83             | 16     | 9      | name.com    |
 | payments.haus      | available | $19.99    | —             | 58             | 33     | 8      | name.com    |
+| homes.haus         | resell    | —         | —             | 86             | 34     | 5      | Porkbun LLC |
 | VirginiaBeach.haus | premium   | $1,120    | $1,120        | 58             | 9      | 14     | namecheap   |
 | teams.haus         | available | $19.99    | —             | 62             | 32     | 5      | name.com    |
 | nana.haus          | premium   | —         | —             | 76             | 28     | 4      | —           |
@@ -83,7 +84,6 @@ print(df.head())
 | whats.haus         | available | $19.99    | —             | 58             | 24     | 5      | name.com    |
 | loans.haus         | available | $19.99    | —             | 58             | 24     | 5      | name.com    |
 | reports.haus       | available | $19.99    | —             | 58             | 24     | 7      | name.com    |
-| rekt.haus          | available | $19.99    | —             | 40             | 24     | 4      | name.com    |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
