@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .haus one-word domains from
 
 **Public extract:** 1,000 rows · **Live catalog:** 11,836 domains · **Median ask:** $25.46 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-11  
+**Last updated:** 2026-05-13  
 **Canonical page:** `https://unique.domains/domains/tld/haus`  
 **Best for:** founders, investors, studios
 
@@ -77,8 +77,8 @@ print(df.head())
 | nana.haus          | premium   | —         | —             | 76             | 28     | 4      | —           |
 | trends.haus        | available | $19.99    | —             | 60             | 32     | 6      | name.com    |
 | cams.haus          | available | $19.99    | —             | 52             | 29     | 4      | name.com    |
+| Elias.haus         | available | $37.98    | —             | 72             | 28     | 5      | namecheap   |
 | KFC.haus           | available | $37.98    | —             | 74             | 27     | 3      | namecheap   |
-| Elias.haus         | available | $37.98    | —             | 72             | 27     | 5      | namecheap   |
 | drops.haus         | available | $19.99    | —             | 52             | 25     | 5      | name.com    |
 | Trex.haus          | available | $37.98    | —             | 80             | 24     | 5      | namecheap   |
 | whats.haus         | available | $19.99    | —             | 58             | 24     | 5      | name.com    |
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .HAUS One-Word Domains*. Version 2026-05-11. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .HAUS One-Word Domains*. Version 2026-05-13. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
