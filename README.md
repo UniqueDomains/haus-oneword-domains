@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .haus one-word domains from
 
 **Public extract:** 1,000 rows · **Live catalog:** 26,516 domains · **Median ask:** $18.01 · **High-demand under $2,500:** 3
 
-**Last updated:** 2026-09-18
+**Last updated:** 2026-09-20
 **Canonical page:** `https://unique.domains/domains/tld/haus`
 **Best for:** founders, investors, studios
 
@@ -66,12 +66,13 @@ print(df.head())
 | ----------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ----------------- |
 | off.haus    | available | $19.99    | —             | high           | low    | 3      | name.com          |
 | period.haus | available | $19.99    | —             | high           | low    | 6      | name.com          |
+| smooth.haus | available | $19.99    | —             | high           | low    | 6      | name.com          |
 | ain.haus    | available | $11.98    | $37.98        | low            | low    | 3      | namecheap         |
 | car.haus    | resell    | —         | —             | high           | medium | 3      | Dynadot Inc       |
-| tea.haus    | premium   | $854      | $854          | medium         | medium | 3      | namesilo          |
+| tea.haus    | premium   | $1,040    | $1,040        | medium         | low    | 3      | namecheap         |
 | all.haus    | available | $19.99    | —             | high           | medium | 3      | name.com          |
 | sea.haus    | resell    | —         | —             | high           | low    | 3      | GoDaddy.com, LLC  |
-| web.haus    | premium   | $854      | $854          | medium         | medium | 3      | namesilo          |
+| web.haus    | premium   | $1,040    | $1,040        | medium         | low    | 3      | namecheap         |
 | are.haus    | available | $19.99    | —             | high           | low    | 3      | name.com          |
 | sip.haus    | resell    | —         | —             | high           | low    | 3      | GoDaddy.com, LLC  |
 | bake.haus   | premium   | $242      | $242          | high           | low    | 4      | namesilo          |
@@ -83,7 +84,6 @@ print(df.head())
 | jail.haus   | premium   | $242      | $242          | high           | low    | 4      | namesilo          |
 | fin.haus    | available | $11.98    | $37.98        | low            | low    | 3      | namecheap         |
 | motor.haus  | resell    | —         | —             | high           | low    | 5      | NameCheap, Inc.   |
-| block.haus  | premium   | $1,040    | $1,040        | medium         | low    | 5      | namecheap         |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .HAUS One-Word Domains*. Version 2026-09-18. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .HAUS One-Word Domains*. Version 2026-09-20. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
