@@ -39,7 +39,7 @@ cd6c0308-9d27-48c3-b257-020c365db81f,supper.haus,available,19.99,,high,low,6,nam
 0b0be55c-21d3-4790-bfd3-49d3796e85a7,stylized.haus,available,11.98,37.98,high,low,8,namecheap,,,08/09/2026 05:30
 b2375d63-ee01-459c-a7c8-0acc794323bc,pancreatic.haus,available,11.98,37.98,medium,low,10,namecheap,,,05/09/2026 00:36
 7b5485b5-9e34-46bd-831f-bfa04ed57a0b,acrostic.haus,available,14.99,33.99,medium,low,8,namesilo,,,17/09/2026 03:59
-80d1f251-5835-4393-a9d0-f41d7922e527,pasta.haus,resell,,,high,low,5,united-domains GmbH,06/09/2014 12:45,06/09/2027 12:45,24/09/2026 05:43
+80d1f251-5835-4393-a9d0-f41d7922e527,pasta.haus,resell,,,high,low,5,united-domains GmbH,06/09/2014 12:45,06/09/2027 12:45,26/09/2026 08:03
 89dd65c1-4a95-4f52-816d-a4dfc587041f,ballroom.haus,available,19.99,,high,low,8,name.com,,,
 e970a3cf-13f0-4136-923a-93090c87ed8e,brawny.haus,available,11.98,37.98,high,low,6,namecheap,,,11/08/2026 02:47
 51e3bf99-f9be-4332-88b9-21c339c4d07b,squeaking.haus,available,11.98,37.98,medium,low,9,namecheap,,,10/09/2026 00:03
@@ -89,7 +89,7 @@ bcd40f10-d6ae-452e-85ca-5d7467cab60c,metaphoric.haus,available,11.98,37.98,high,
 beaafedb-1b49-430f-a94f-0516e0378d56,cretaceous.haus,available,11.98,37.98,medium,low,10,namecheap,,,13/08/2026 06:22
 8053de29-56b2-4ae5-9d24-71ad5218b6e1,later.haus,available,14.99,33.99,high,low,5,namesilo,,,21/09/2026 22:11
 4955a951-bf93-4f4c-8a4f-5526befa0b51,lava.haus,available,19.99,,high,low,4,name.com,,,
-636eefb3-da85-4d1e-b5ed-df3598cc7207,regardless.haus,available,19.99,,high,low,10,name.com,,,
+636eefb3-da85-4d1e-b5ed-df3598cc7207,regardless.haus,available,11.98,37.98,high,low,10,namecheap,,,27/09/2026 11:13
 5eaabf30-e7cb-4fcb-83de-3cf701a2ca07,rigorous.haus,available,19.99,,high,low,8,name.com,,,
 8f013b13-ac7d-40bf-a4a9-a55ffb6a6d54,agamid.haus,available,14.99,33.99,medium,low,6,namesilo,,,17/09/2026 16:08
 4d10f3f8-e88b-4b9a-af40-c1a293ad367c,ascribe.haus,available,14.99,33.99,high,low,7,namesilo,,,21/09/2026 02:19
@@ -125,6 +125,7 @@ aacaa4d5-833a-4659-9e58-21948073fd2c,airmanship.haus,available,14.99,33.99,mediu
 fd98d593-730c-43b6-8246-9ed537ff4bb0,epizoon.haus,available,11.98,37.98,medium,low,7,namecheap,,,15/08/2026 00:52
 178b6ee2-2a38-4e50-b981-8e6918cacb27,distance.haus,available,19.99,,high,low,8,name.com,,,
 179d477c-390b-4d4b-95bc-ae851034f8f0,earliest.haus,available,14.99,33.99,high,low,8,namesilo,,,24/09/2026 12:55
+629b09d8-0412-4751-a4dc-2a5741db9c25,demands.haus,available,14.99,33.99,low,low,7,namesilo,,,27/09/2026 10:52
 f42df7ed-4a2a-4d52-b41d-1d995dbadfc8,alcalde.haus,available,14.99,33.99,medium,low,7,namesilo,,,18/09/2026 03:47
 ba6709a8-2300-4dcb-aed7-c9b343052ff0,ghosts.haus,available,14.99,33.99,medium,low,6,namesilo,,,18/09/2026 22:14
 0edb7cb5-50a4-4a92-9f85-831b1754796e,leaden.haus,available,11.98,37.98,medium,low,6,namecheap,,,22/08/2026 21:44
@@ -139,6 +140,7 @@ a0a59c1c-5e26-427d-923b-3b0902168e87,terminal.haus,available,11.98,37.98,high,lo
 ab9917d1-b9aa-48d9-a875-7bb21c4d20e5,unstated.haus,available,11.98,37.98,medium,low,8,namecheap,,,12/09/2026 09:45
 d92641bb-3a42-4f7e-9107-5f8099f9a26b,barbet.haus,available,14.99,33.99,medium,low,6,namesilo,,,22/09/2026 04:53
 bccdfbcb-7c90-4491-abc6-79256a842f62,bigot.haus,available,14.99,33.99,medium,low,5,namesilo,,,23/09/2026 15:20
+ab6be90f-9ce5-4bec-b725-610de2dcef11,rolls.haus,available,14.99,33.99,high,low,5,namesilo,,,27/09/2026 07:45
 181c3949-6ff9-45b4-98d2-bcdb30911b04,optically.haus,available,11.98,37.98,medium,low,9,namecheap,,,15/09/2026 18:03
 cdb28e81-49fa-4e2b-bd17-575fdff36764,cadillac.haus,available,19.99,,high,low,8,name.com,,,
 eb435c6f-3778-4cd8-ba1f-5d7c89712b25,nobleman.haus,available,11.98,37.98,high,low,8,namecheap,,,03/09/2026 18:00
@@ -149,6 +151,7 @@ e44b412d-049e-4b2d-a9f5-b755cbdd0406,exportable.haus,available,11.98,37.98,high,
 36d51a43-26f3-4d9c-8c2f-59d29df49873,gird.haus,available,14.99,33.99,medium,low,4,namesilo,,,20/09/2026 06:19
 d41e7329-cd7b-4d32-a586-aa84d6e89fab,assumption.haus,available,14.99,33.99,high,low,10,namesilo,,,20/09/2026 16:39
 9e940ee2-3f30-40db-9e94-aea92e87881b,anubis.haus,available,14.99,33.99,high,low,6,namesilo,,,19/09/2026 11:58
+5dd2db30-0f33-4a5e-8d76-33dd92a7bf93,violence.haus,available,11.98,37.98,high,low,8,namecheap,,,27/09/2026 03:55
 5f194426-bdd8-4870-ae15-c8dc25ddb225,susan.haus,available,19.99,,high,low,5,name.com,,,
 57844b68-e16f-4e34-8476-12b2afea795f,arrhythmia.haus,available,11.98,37.98,medium,low,10,namecheap,,,20/09/2026 09:13
 0410e83c-3a20-408f-bace-672b8c59e794,barry.haus,available,14.99,33.99,high,low,5,namesilo,,,25/09/2026 11:27
@@ -158,7 +161,7 @@ f3c79f4c-ba9f-4e0f-962a-f5272c64e405,necessity.haus,available,14.99,33.99,high,l
 be88a26d-bf61-4e2f-b0cb-1153ccbff597,siamese.haus,available,11.98,37.98,high,low,7,namecheap,,,10/09/2026 07:27
 1345505b-d6c9-4516-9cfa-f94c10a03731,spillover.haus,available,14.99,33.99,medium,low,10,namesilo,,,16/09/2026 17:36
 eb7a6bff-331f-4c19-a2ff-d01b9e099af8,update.haus,available,,,high,low,7,,,,
-9f56f055-6263-4822-9b5c-78eda5fbc88a,pussy.haus,available,19.99,,high,low,5,name.com,,,
+9f56f055-6263-4822-9b5c-78eda5fbc88a,pussy.haus,available,14.99,33.99,high,medium,5,namesilo,,,27/09/2026 08:37
 c2fab527-3e0b-48f6-a7b2-bd7faddc8801,mutable.haus,available,11.98,37.98,medium,low,7,namecheap,,,12/08/2026 01:50
 a81acc83-5b0d-4d38-8bf6-c237be4d31e6,notably.haus,available,11.98,37.98,medium,low,7,namecheap,,,15/09/2026 16:54
 0de4478c-5ed3-4357-afa5-42a99828b975,figured.haus,available,11.98,37.98,high,low,7,namecheap,,,18/08/2026 04:00
@@ -179,7 +182,8 @@ b656e51b-e80d-4701-9e72-8310a9d60845,fifteen.haus,available,14.99,33.99,high,low
 10ca1267-870f-4a54-a0bd-9e06e2500aca,acned.haus,available,11.98,37.98,low,low,5,namecheap,,,
 62c5e2f7-2560-42d9-af88-f68f136c036d,bunco.haus,available,11.98,37.98,medium,low,5,namecheap,,,14/09/2026 07:59
 949816ef-d133-44aa-bb0b-5c7bb096680c,argil.haus,available,14.99,33.99,medium,low,5,namesilo,,,20/09/2026 04:20
-80ac87bc-837e-4c01-9ad7-ee2b2a43b2a8,spirited.haus,available,19.99,,high,low,8,name.com,,,
+8b4a4685-8be2-4302-b22c-df316259b960,sachs.haus,available,14.99,33.99,medium,low,5,namesilo,,,27/09/2026 01:53
+80ac87bc-837e-4c01-9ad7-ee2b2a43b2a8,spirited.haus,available,14.99,33.99,high,low,8,namesilo,,,27/09/2026 03:25
 1dfba70a-fac5-499e-bf3f-dbaeea74ff59,allow.haus,available,11.98,37.98,high,low,5,namecheap,,,06/08/2026 09:03
 c28cc3f6-556f-4af8-b9d2-947816ae0395,ribbon.haus,available,19.99,,high,low,6,name.com,,,
 d73fa00e-cc14-47e1-88a9-8fd301734c49,ankle.haus,available,14.99,33.99,high,low,5,namesilo,,,19/09/2026 09:40
@@ -278,6 +282,7 @@ b6fcfc88-d7d4-4ee3-9e5d-9b5eb2ce105a,bilk.haus,premium,118.8,118.8,medium,low,4,
 d067730a-df08-420a-8044-71affbef6e5e,ardent.haus,available,,,high,low,6,,,,
 910f677b-aec3-4ad6-997b-b24eb7c8e64f,vaughan.haus,available,14.99,33.99,high,low,7,namesilo,,,25/09/2026 10:35
 6ec01818-c589-491d-9f38-8a621964fd6e,occipital.haus,available,11.98,37.98,high,low,9,namecheap,,,04/09/2026 00:11
+349599ec-fa9b-4ed7-ace4-733cf83ce86f,ellison.haus,available,14.99,33.99,high,low,7,namesilo,,,27/09/2026 03:49
 ca56563a-e718-4893-9b3d-96fbe82366b4,remained.haus,available,14.99,33.99,medium,low,8,namesilo,,,18/09/2026 11:23
 2c42f1ff-109b-48ee-afb5-a10808495bcb,formulated.haus,available,11.98,37.98,high,low,10,namecheap,,,18/08/2026 12:22
 1f637f82-af55-4a48-8065-f7bece51b3cd,germy.haus,available,11.98,37.98,medium,low,5,namecheap,,,18/08/2026 22:53
@@ -403,7 +408,7 @@ e4b8396b-884d-4153-98a4-908f8269f7a0,anamorphic.haus,available,11.98,37.98,mediu
 d21be3ac-43e4-48b0-8b95-2a5b7fa72535,hypnotised.haus,available,11.98,37.98,medium,low,10,namecheap,,,17/08/2026 22:48
 1a61a11d-a216-4ea0-bca0-8bafa594fba3,club.haus,available,,,high,low,4,,,,
 0ff2e43a-647b-4eab-83f3-289d37100758,curse.haus,available,11.98,37.98,high,low,5,namecheap,,,24/09/2026 04:27
-362749d2-d9c5-4a90-b9cf-81947ec0514d,solar.haus,resell,,,high,high,5,"Spaceship, Inc.",19/06/2024 15:15,19/06/2027 15:15,10/09/2026 13:31
+362749d2-d9c5-4a90-b9cf-81947ec0514d,solar.haus,resell,,,high,high,5,"Spaceship, Inc.",19/06/2024 15:15,19/06/2027 15:15,26/09/2026 09:08
 fa236dff-5b16-4997-a023-d3d837aad497,stinker.haus,available,11.98,37.98,medium,low,7,namecheap,,,11/08/2026 09:15
 f58da78f-25db-49ef-b11e-ec1a01477888,pies.haus,available,19.99,,medium,low,4,name.com,,,
 5d4ac3a9-caed-4f6a-973c-7d039a7c6cf9,rebuff.haus,available,11.98,37.98,medium,low,6,namecheap,,,10/09/2026 10:49
@@ -473,7 +478,7 @@ d5aa69f6-c77e-417a-a8b5-54b274526515,parvenu.haus,available,11.98,37.98,medium,l
 a4f9bb8d-6049-4481-b105-dd42d046bd6f,introduced.haus,available,19.99,,high,low,10,name.com,,,
 ca24a877-e5a0-4b31-85e7-d7f7da341b84,inherently.haus,available,11.98,37.98,medium,low,10,namecheap,,,15/09/2026 08:20
 e7792909-7cb8-4b11-a945-716e7a3c79c3,particle.haus,available,11.98,37.98,high,low,8,namecheap,,,24/09/2026 18:19
-7ad29dcc-dec3-4b23-9ecf-0175576c9610,pleased.haus,available,19.99,,high,low,7,name.com,,,
+7ad29dcc-dec3-4b23-9ecf-0175576c9610,pleased.haus,available,14.99,33.99,high,low,7,namesilo,,,27/09/2026 04:08
 a5ce314b-d903-43d7-97aa-32503613a639,swords.haus,available,19.99,,medium,low,6,name.com,,,
 07ea00e1-b4b7-4922-8acd-e4afe102f9b6,draconian.haus,available,11.98,37.98,medium,low,9,namecheap,,,14/08/2026 18:10
 5dc044c4-55fc-40d5-b341-e4a783dfb882,powerfully.haus,available,11.98,37.98,high,low,10,namecheap,,,15/09/2026 21:10
@@ -487,6 +492,7 @@ d464eef0-6333-4c5c-b020-4a565c74822f,minister.haus,available,,,high,low,8,,,,24/
 a1e58866-ed96-4a5a-8509-34d0b2658f16,consumption.haus,available,19.99,,high,low,11,name.com,,,
 b94178d5-0ec4-47c9-b836-29256a57cea3,alewife.haus,available,14.99,33.99,medium,low,7,namesilo,,,18/09/2026 05:44
 4708485d-0a6e-47a2-899b-3c4219e81d43,legible.haus,available,11.98,37.98,high,low,7,namecheap,,,22/08/2026 22:59
+817f58ba-a23b-4c10-b05a-a5a840ea2705,germans.haus,available,14.99,33.99,medium,low,7,namesilo,,,27/09/2026 03:03
 48fcea77-bada-41e5-8007-d4fdc270b803,celibate.haus,available,11.98,37.98,high,low,8,namecheap,,,11/08/2026 23:25
 bf6c16e0-b076-4fc3-ac54-0eb6384e6bc4,ldopa.haus,available,14.99,33.99,high,low,6,namesilo,,,23/09/2026 07:45
 a4cb98a7-15d2-45f0-83d6-604870fbb879,sunstruck.haus,available,11.98,37.98,medium,low,9,namecheap,,,11/09/2026 02:01
@@ -513,6 +519,7 @@ ce7520a3-5b73-447f-93ab-b6e8e6364bf2,superbug.haus,available,11.98,37.98,medium,
 8d812a85-dfb1-4a69-8246-0a17f18bbf73,prosperous.haus,available,11.98,37.98,high,low,10,namecheap,,,10/08/2026 19:19
 26a986a5-37c0-49e9-be99-10be72a221b0,balaena.haus,available,11.98,37.98,medium,low,7,namecheap,,,21/09/2026 20:30
 5d6b1a75-9bea-4819-98ec-1ec4c4cb33b6,batna.haus,available,14.99,33.99,medium,low,5,namesilo,,,22/09/2026 14:06
+fdde7936-c1e6-4443-9bc2-0c518c327800,samantha.haus,available,14.99,33.99,high,low,8,namesilo,,,27/09/2026 07:25
 2d4405cf-acf6-49e8-94dc-59668402c7d1,defiantly.haus,available,11.98,37.98,medium,low,9,namecheap,,,14/09/2026 08:33
 e21188c7-6ebb-4339-b85a-0f1c4685897e,berkelium.haus,available,14.99,33.99,medium,low,9,namesilo,,,21/09/2026 00:14
 aa02dd8c-29af-4e9d-9719-4401b6044963,whiff.haus,available,11.98,37.98,high,low,5,namecheap,,,09/09/2026 05:39
@@ -524,6 +531,7 @@ afecf08b-e2fc-4a9b-865a-9d19ffa1de74,unkind.haus,available,11.98,37.98,medium,lo
 a232f3cb-fbe5-4581-b674-80717b9632d0,frog.haus,available,11.98,37.98,high,low,4,namecheap,,,05/08/2026 21:03
 1b7deea6-b110-4454-817e-785d61fbb9b0,interpret.haus,available,19.99,,high,low,9,name.com,,,
 2dc5a8e4-2bf3-41d2-9909-3c51fd4b85f0,yokel.haus,available,11.98,37.98,medium,low,5,namecheap,,,21/08/2026 08:01
+a5595bd2-af77-4f11-aa1d-85c3bc168bd7,ourselves.haus,available,14.99,33.99,medium,low,9,namesilo,,,27/09/2026 08:55
 5062ec66-c2e0-49ae-a93d-50c9b0df50b7,unitary.haus,available,11.98,37.98,high,low,7,namecheap,,,12/09/2026 13:58
 3219f602-43cf-4b1d-9ea8-f827486b8b85,thwack.haus,available,11.98,37.98,medium,low,6,namecheap,,,16/09/2026 02:47
 d7d8be6e-0c54-4f08-a60e-adba1fba933a,almaty.haus,premium,128.7,128.7,medium,low,6,namecheap,,,18/09/2026 12:22
@@ -613,7 +621,7 @@ aceced65-058c-46b5-ae56-8fdc83910232,drives.haus,available,11.98,37.98,medium,lo
 7a7f8a00-862a-4e95-9761-89fa19281c11,angling.haus,available,14.99,33.99,high,low,7,namesilo,,,19/09/2026 06:50
 d46f5e35-3ecb-4ae8-b3fc-a5fe73bf9de2,hungarian.haus,available,11.98,37.98,high,low,9,namecheap,,,21/08/2026 15:39
 e1775679-aa09-4cd2-a085-fa762fb1ec38,clxxv.haus,available,11.98,37.98,medium,low,5,namecheap,,,
-797e12d9-51ff-462e-b380-03d14fb10d86,value.haus,available,19.99,,high,low,5,name.com,,,
+797e12d9-51ff-462e-b380-03d14fb10d86,value.haus,available,11.98,37.98,high,low,5,namecheap,,,27/09/2026 06:35
 99d8ca42-0e63-4e24-9e94-2834c0f71c3e,sayonara.haus,available,11.98,37.98,high,low,8,namecheap,,,17/09/2026 08:15
 e8c596b7-93ac-4273-8e93-dcc83da39120,cloisonne.haus,available,11.98,37.98,medium,low,9,namecheap,,,12/08/2026 01:39
 7e51334f-6fff-4513-a07c-c2f287ac4a39,gravy.haus,available,11.98,37.98,high,low,5,namecheap,,,24/09/2026 11:11
@@ -715,6 +723,7 @@ d96a66c5-60e3-4e0c-b5b2-4d1917519b3f,untucked.haus,available,11.98,37.98,medium,
 2a79948f-7939-4116-b6ff-9214501d4224,seals.haus,available,19.99,,high,low,5,name.com,,,
 cd8d3d58-df56-4e42-8111-510b777ce3a4,array.haus,available,14.99,33.99,high,low,5,namesilo,,,20/09/2026 08:50
 36aa68b9-c9b0-450c-8087-6b27eb2797b9,documentation.haus,available,19.99,,high,low,13,name.com,,,
+25765ff6-93b7-483d-b694-90795e260db0,fremont.haus,available,14.99,33.99,high,low,7,namesilo,,,27/09/2026 04:04
 27344edb-f9f1-4dc2-91d6-87fd3cd3a81b,wrote.haus,available,19.99,,medium,low,5,name.com,,,
 d7ef89d6-23be-448d-adbd-a17d9474418f,nonsuch.haus,available,11.98,37.98,medium,low,7,namecheap,,,03/09/2026 20:15
 2334559a-e34c-466d-8ceb-f29f4d3bad74,anther.haus,available,11.98,37.98,medium,low,6,namecheap,,,19/09/2026 13:08
@@ -894,6 +903,7 @@ e7d7533f-ec7f-4c66-b3d1-5aa5c288cf9a,stonewalls.haus,available,11.98,37.98,mediu
 71955ffc-b50c-4763-96a2-5e8f258cf8dc,buzzing.haus,available,11.98,37.98,high,low,7,namecheap,,,
 53c66494-067a-40bb-bdfc-7360b15bac9b,activator.haus,available,14.99,33.99,high,low,9,namesilo,,,17/09/2026 05:10
 61974b11-3c02-4894-9665-87c8998e7152,agonizing.haus,available,11.98,37.98,high,low,9,namecheap,,,
+149718b0-1638-45bc-9199-4f43b98478a8,feng.haus,available,11.98,37.98,high,low,4,namecheap,,,27/09/2026 06:56
 225d902d-7bb3-4eea-bd19-1e9fae293ec0,atm.haus,available,14.99,33.99,high,low,3,namesilo,,,20/09/2026 18:44
 66713aac-88f4-4493-9bb7-cb573cd3a384,chemistry.haus,available,14.99,33.99,high,low,9,namesilo,,,25/09/2026 04:08
 942da485-1762-4329-bae6-3c8bb46831c6,profile.haus,available,19.99,,high,low,7,name.com,,,
@@ -912,7 +922,7 @@ d2aec7f1-413f-4d70-82cc-39c03d5de561,spoof.haus,available,14.99,33.99,high,low,5
 32a0ad9c-699d-4630-8702-89d79e1f3c11,expertise.haus,available,19.99,,high,low,9,name.com,,,
 7f533548-643f-4fa1-af20-f5f5807dd5eb,offenses.haus,available,14.99,33.99,low,low,8,namesilo,,,20/09/2026 10:35
 11415428-189e-4a48-b9d7-cf47b970dc6d,agave.haus,available,14.99,33.99,high,low,5,namesilo,,,17/09/2026 16:37
-3781ad8a-5ec3-4e6d-a2af-5d9acd49b517,walk.haus,available,14.99,33.99,high,low,4,namesilo,,,25/09/2026 15:17
+3781ad8a-5ec3-4e6d-a2af-5d9acd49b517,walk.haus,available,11.98,37.98,high,low,4,namecheap,,,27/09/2026 02:47
 c878e5db-cabd-44d8-ae1f-f4de90e51cf2,multipurpose.haus,available,19.99,,medium,low,13,name.com,,,
 a98394c0-d695-4647-aa93-22a8102dccd4,borrow.haus,available,19.99,,high,low,6,name.com,,,
 4f9b6fcf-f9d0-4251-860c-9730d93fef65,happens.haus,available,19.99,,medium,low,7,name.com,,,
@@ -922,6 +932,7 @@ ca63852e-1a8a-456f-9ce2-fa113f6c34e2,blanket.haus,available,11.98,37.98,high,low
 3b69eb66-7c15-42a0-aff0-55c9a8aa3ecc,literally.haus,available,19.99,,high,low,9,name.com,,,
 a7b364cb-27b7-4d69-a541-3d6070a48644,stale.haus,available,11.98,37.98,medium,low,5,namecheap,,,10/09/2026 18:24
 ef8e691e-064e-42c4-8bd3-279dbce3c857,bodacious.haus,available,11.98,37.98,high,low,9,namecheap,,,10/08/2026 16:42
+de12af6d-b5c4-45f6-b8e7-a54cf9593fd7,kathryn.haus,available,14.99,33.99,high,low,7,namesilo,,,27/09/2026 07:34
 bfe5f78b-bfe2-4064-8b0f-f86d18aa1357,dashingly.haus,available,11.98,37.98,medium,low,9,namecheap,,,14/09/2026 10:41
 464ed8a5-1ba3-4722-b928-7b28564d710b,ecumenical.haus,available,11.98,37.98,medium,low,10,namecheap,,,15/08/2026 04:38
 13459c0a-a21c-4b56-81a0-e3e71ba9023e,orthogonal.haus,available,11.98,37.98,high,low,10,namecheap,,,17/08/2026 19:23
@@ -988,14 +999,3 @@ d1235eb1-672f-485d-9d70-c8053d7076b4,cleaners.haus,available,11.98,37.98,high,lo
 443ca48e-ae07-4f75-aa63-70a0e8875acf,pathologic.haus,available,11.98,37.98,medium,low,10,namecheap,,,14/08/2026 10:11
 19fa5f1d-a364-41b5-be87-022a989540c3,impaired.haus,available,11.98,37.98,medium,low,8,namecheap,,,21/08/2026 21:40
 3184e808-d5af-404d-9c87-31557da5c064,overlooked.haus,available,11.98,37.98,high,low,10,namecheap,,,04/09/2026 21:04
-88585d29-2d76-48b2-ae73-615183adc0f0,goshawk.haus,available,14.99,33.99,medium,low,7,namesilo,,,16/09/2026 22:31
-eed694e2-6052-4e4a-98ec-bcc687fe2bc6,categorical.haus,available,19.99,,high,low,11,name.com,,,
-838f3d1b-9a4f-4d82-b98e-000cf2496c89,epistolary.haus,available,11.98,37.98,high,low,10,namecheap,,,17/08/2026 11:14
-a89163d3-81f7-4698-a043-bc5895444186,dogtooth.haus,available,11.98,37.98,high,low,8,namecheap,,,11/08/2026 17:01
-fcb018e5-6e75-47d2-9a0b-8b544e166510,fagged.haus,available,11.98,37.98,low,low,6,namecheap,,,14/08/2026 14:47
-b2d7ed31-3018-4e53-862c-766d636fafb7,bituminous.haus,available,11.98,37.98,high,low,10,namecheap,,,10/08/2026 08:53
-e7f6b73f-be8d-4767-9b04-6679141ee374,wobbling.haus,available,11.98,37.98,medium,low,8,namecheap,,,13/09/2026 12:52
-de4640b8-1f18-40d8-be29-eddee1a044ea,papist.haus,available,11.98,37.98,medium,low,6,namecheap,,,05/09/2026 01:35
-ac198131-605a-4325-811a-562b74d023f6,most.haus,available,11.98,37.98,high,low,4,namecheap,,,25/09/2026 21:48
-2c3bc69b-4884-430d-9cd3-6e2bc406ed8a,facing.haus,available,19.99,,high,low,6,name.com,,,
-c869fba6-5350-4356-bdab-0a35e42acd39,whiteboard.haus,available,19.99,,high,low,10,name.com,,,
