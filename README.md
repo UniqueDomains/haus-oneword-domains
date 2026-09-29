@@ -1,10 +1,10 @@
-# Available .HAUS One-Word Domains (23,009)
+# Available .HAUS One-Word Domains (24,949)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-23%2C009%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-24%2C949%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 Daily-updated public extract of available and resale .haus one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **23,009 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **24,949 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 23,009 domains · **Median ask:** $19.93 · **High-demand under $2,500:** 3
+**Public extract:** 1,000 rows · **Live catalog:** 24,949 domains · **Median ask:** $19.74 · **High-demand under $2,500:** 3
 
-**Last updated:** 2026-09-28
+**Last updated:** 2026-09-29
 **Canonical page:** `https://unique.domains/domains/tld/haus`
 **Best for:** founders, investors, studios
 
@@ -70,17 +70,17 @@ print(df.head())
 | ani.haus       | available | $14.99    | $33.99        | high           | low    | 3      | namesilo              |
 | pasta.haus     | resell    | —         | —             | high           | low    | 5      | united-domains GmbH   |
 | bilk.haus      | premium   | $118.80   | $118.80       | medium         | low    | 4      | namesilo              |
-| atm.haus       | available | $14.99    | $33.99        | high           | low    | 3      | namesilo              |
+| bus.haus       | available | $14.99    | $33.99        | high           | low    | 3      | namesilo              |
 | solar.haus     | resell    | —         | —             | high           | high   | 5      | Spaceship, Inc.       |
 | cheap.haus     | premium   | $1,040    | $1,040        | high           | low    | 5      | namecheap             |
-| bus.haus       | available | $19.99    | —             | high           | low    | 3      | name.com              |
+| chr.haus       | available | $10.55    | $27.11        | medium         | low    | 3      | spaceship             |
 | bruckner.haus  | resell    | —         | —             | medium         | low    | 8      | Ledl.net GmbH & Co KG |
 | almaty.haus    | premium   | $128.70   | $128.70       | medium         | low    | 6      | namecheap             |
 | clv.haus       | available | $11.98    | $37.98        | high           | low    | 3      | namecheap             |
 | family.haus    | premium   | $1,040    | $1,040        | high           | medium | 6      | namecheap             |
 | dis.haus       | available | $14.99    | $33.99        | high           | low    | 3      | namesilo              |
 | isfahan.haus   | premium   | $118.80   | $118.80       | high           | low    | 7      | namesilo              |
-| egg.haus       | available | $19.99    | —             | high           | low    | 3      | name.com              |
+| egg.haus       | available | $10.55    | $27.11        | high           | low    | 3      | spaceship             |
 | bungalow.haus  | premium   | $854      | $854          | high           | low    | 8      | namesilo              |
 | fda.haus       | available | $11.98    | $37.98        | high           | low    | 3      | namecheap             |
 | barcelona.haus | premium   | $854      | $854          | high           | low    | 9      | namesilo              |
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 23,009 live domains                        |
+| 1,000-row public sample | 24,949 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
 | Basic exported fields   | 3 high-demand names under $2,500           |
 | No persistence          | Radar, saved search, and alerts            |
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .HAUS One-Word Domains*. Version 2026-09-28. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .HAUS One-Word Domains*. Version 2026-09-29. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
